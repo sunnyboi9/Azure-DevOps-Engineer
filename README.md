@@ -1,20 +1,33 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# DevOps-Engineer Test
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+This is a mini-test/project with two simple goals:
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+- Give insight to how you approach and deliver on a task
+- Demonstrate your ability to present your solution
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+>Note: Many details are deliberately missing. There is no single "correct" answer.
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## Objective/Tasks
+
+This repository contains a simple HTML webpage developed by our experts in searching for templates via Google. We'd like you to publish this for us under the following conditions:
+
+- **Clone this repo into a public repo of your choosing.**
+  - Once there feel free to make any modifications desired to meet goals.
+- **Use a public project in Azure DevOps to generate a pipeline.**
+  - The pipeline should trigger on changes to master
+  - The final webpage can be hosted in any manner you deem appropriate.
+
+>Note: Please ensure you use a **public** project to avoid any operational costs and to ease our access during assessment.
+
+## Output
+
+In a followup meeting you will be asked for the following:
+
+- URL for to the public AZDO project
+  - If something other than Azure Repos was use, include that URL.
+- URL for the functioning website
+  - you do NOT need a vanity domain. Any simple endpoint will do
+
+During the meeting you will be asked to explain your pipeline steps, hosting solution, and other pertinent questions. To restate: the goal is to gain insight into your technical as well as presentation capabilities.
+
+Good Luck!
