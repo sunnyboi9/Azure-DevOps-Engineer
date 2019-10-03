@@ -30,4 +30,4 @@ In a followup meeting you will be asked for the following:
 
 During the meeting you will be asked to explain your pipeline steps, hosting solution, and other pertinent questions. To restate: the goal is to gain insight into your technical as well as presentation capabilities.
 
-Good Luck!
+Good Luck!!
