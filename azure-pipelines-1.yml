@@ -14,10 +14,9 @@ steps:
   inputs:
     rootFolderOrFile: '$(build.sourcesDirectory)'
     includeRootFolder: false
-- task: PublishBuildArtifacts@1
+-
 - task: Docker@2
   inputs:
     containerRegistry: 'sunnyboi99'
-    repository: 'test1'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
